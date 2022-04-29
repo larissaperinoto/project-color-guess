@@ -45,5 +45,5 @@ O elemento deve ter o **id** `score`, seu valor inicial dele deve ser 0. A cada 
 ![Captura de tela de 2022-04-29 19-54-11](https://user-images.githubusercontent.com/98956659/166008499-48824f20-28e4-4c5a-bb86-db2ea3586154.png)
 
 ## Meu projeto
-Jogue aqui!
+[Jogue aqui!](https://larissaperinoto.github.io/project-color-guess/)
 ![Captura de tela de 2022-04-29 19-55-59](https://user-images.githubusercontent.com/98956659/166008726-aa58aaf3-5841-4a84-963f-b26f925158f1.png)
